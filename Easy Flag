@@ -1,0 +1,8 @@
+# Easy flag hash password craker CTF.
+# Give hashed flag to perosn and website to decode the hash to reveal th flag.
+
+Here is you hash, now crack it!!  ac0c80f21d30129722ce4bb9c16baf46  
+Visit https://md5decrypt.net/en/ and see if you can decrypt the hash.
+Enter the password to access flag.txt file. 
+Congrats. You've found the flag!  CTF{You_cr4cked_the_hash}
+
